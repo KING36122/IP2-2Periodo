@@ -1,0 +1,11 @@
+-------------------------------------------------------------------
+			RELATÓRIO DAS PARTIDAS
+
+Quantidade de partidas jogadas: 1 partida(s)
+Quantidade de partidas vencidas pelo jogador 1: 1 partida(s)
+Quantidade de partidas vencidas pelo jogador 2: 0 partida(s)
+Quantidade de empates: 0 empate(s)
+Porcentagem de ganhos do jogador 1: 100 porcento
+Porcentagem de ganhos do jogador 2: 0 porcento
+Porcentagem de empates: 0 porcento
+-------------------------------------------------------------------
